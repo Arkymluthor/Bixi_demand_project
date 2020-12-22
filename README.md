@@ -9,4 +9,4 @@ Questions answered include:
 * Which stations are prone to more rides?
 * A whole lot more ...
 
-We compare ML models using Regression algorithms and Neural Network models. These models can be used in planning bike number to station allocations, and seasonality of demands across the year.
+We develop ML models using Regression algorithms and Neural Networks. These models can be used in planning bike number to station allocations, and seasonality of demands across the year.
